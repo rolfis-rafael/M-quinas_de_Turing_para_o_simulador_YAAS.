@@ -1,0 +1,1 @@
+# Simulador-YAAS-M-quinas-de-Turing-de-Subtra-o-e-Resto
